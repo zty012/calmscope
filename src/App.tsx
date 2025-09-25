@@ -173,7 +173,7 @@ function App() {
           <div className="text-gray-200 mb-4 leading-relaxed">
             {(() => {
               const emotion = detectEmotionFromAnswers(answers, additionalText);
-              return data.results[emotion];
+              return data.results[emotion as never];
             })()}
           </div>
           <p className="text-gray-400 italic text-center">{message}</p>
