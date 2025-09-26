@@ -299,6 +299,506 @@
         { "text": "焦虑，后果", "emotion": "焦虑" },
         { "text": "无助，不知怎么办", "emotion": "无助" }
       ]
+    },
+    {
+      "id": 31,
+      "text": "当你看到自己的成绩时，你的第一反应是什么？",
+      "options": [
+        { "text": "沮丧，如果不好", "emotion": "沮丧" },
+        { "text": "焦虑，下次要更好", "emotion": "焦虑" },
+        { "text": "平静，接受结果", "emotion": "平静" },
+        { "text": "压力，怕父母失望", "emotion": "压力" }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "在复习时，你最担心的是什么？",
+      "options": [
+        { "text": "时间不够用", "emotion": "压力" },
+        { "text": "复习不够全面", "emotion": "不安" },
+        { "text": "忘记重要内容", "emotion": "焦虑" },
+        { "text": "进展顺利，没问题", "emotion": "平静" }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "考试结束后，你通常会怎么做？",
+      "options": [
+        { "text": "立即检查答案", "emotion": "不安" },
+        { "text": "放松一下，休息", "emotion": "平静" },
+        { "text": "担心分数结果", "emotion": "焦虑" },
+        { "text": "和朋友讨论试题", "emotion": "紧张" }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "当老师批评你时，你的感觉是？",
+      "options": [
+        { "text": "沮丧，自责", "emotion": "沮丧" },
+        { "text": "无助，不知怎么办", "emotion": "无助" },
+        { "text": "接受并改进", "emotion": "平静" },
+        { "text": "紧张，下次小心", "emotion": "紧张" }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "面对新的课程，你的态度是？",
+      "options": [
+        { "text": "不安，担心跟不上", "emotion": "不安" },
+        { "text": "兴奋，期待学习", "emotion": "平静" },
+        { "text": "压力，觉得难", "emotion": "压力" },
+        { "text": "疲惫，不想开始", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "当你熬夜复习后，第二天感觉？",
+      "options": [
+        { "text": "非常疲惫", "emotion": "疲惫" },
+        { "text": "焦虑效率不高", "emotion": "焦虑" },
+        { "text": "正常，继续努力", "emotion": "平静" },
+        { "text": "沮丧，浪费时间", "emotion": "沮丧" }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "在小组学习中，你的表现如何？",
+      "options": [
+        { "text": "积极参与讨论", "emotion": "平静" },
+        { "text": "紧张，不敢发言", "emotion": "紧张" },
+        { "text": "疲惫，不想参与", "emotion": "疲惫" },
+        { "text": "不安，担心被评价", "emotion": "不安" }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "当你完成一项大任务后，你会？",
+      "options": [
+        { "text": "放松庆祝", "emotion": "平静" },
+        { "text": "担心有错误", "emotion": "不安" },
+        { "text": "疲惫，需要休息", "emotion": "疲惫" },
+        { "text": "沮丧，如果没做好", "emotion": "沮丧" }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "面对未来的不确定性，你会？",
+      "options": [
+        { "text": "感到无助", "emotion": "无助" },
+        { "text": "制定计划应对", "emotion": "平静" },
+        { "text": "焦虑未来", "emotion": "焦虑" },
+        { "text": "压力很大", "emotion": "压力" }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "你对自己的学习方法满意吗？",
+      "options": [
+        { "text": "不满意，沮丧", "emotion": "沮丧" },
+        { "text": "有点不安", "emotion": "不安" },
+        { "text": "满意，继续用", "emotion": "平静" },
+        { "text": "疲惫，方法无效", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "当你看到同学取得好成绩时，你会？",
+      "options": [
+        { "text": "为他们高兴", "emotion": "平静" },
+        { "text": "沮丧，自卑", "emotion": "沮丧" },
+        { "text": "压力，要追上", "emotion": "压力" },
+        { "text": "不安，担心差距", "emotion": "不安" }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "在考试前一小时，你通常在做什么？",
+      "options": [
+        { "text": "最后复习重点", "emotion": "平静" },
+        { "text": "紧张，坐立不安", "emotion": "紧张" },
+        { "text": "焦虑，担心忘带东西", "emotion": "焦虑" },
+        { "text": "疲惫，想睡觉", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "当你遇到不会的题目时，你的第一反应是？",
+      "options": [
+        { "text": "冷静分析", "emotion": "平静" },
+        { "text": "紧张，心跳加速", "emotion": "紧张" },
+        { "text": "无助，不知怎么办", "emotion": "无助" },
+        { "text": "沮丧，觉得自己笨", "emotion": "沮丧" }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "面对家庭作业的截止日期，你会？",
+      "options": [
+        { "text": "提前完成", "emotion": "平静" },
+        { "text": "压力很大，熬夜做", "emotion": "压力" },
+        { "text": "不安，担心来不及", "emotion": "不安" },
+        { "text": "疲惫，拖延", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "当朋友问你学习情况时，你会？",
+      "options": [
+        { "text": "诚实分享", "emotion": "平静" },
+        { "text": "紧张，怕被比较", "emotion": "紧张" },
+        { "text": "沮丧，觉得自己差", "emotion": "沮丧" },
+        { "text": "不安，担心被评价", "emotion": "不安" }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "在图书馆学习时，你的感觉是？",
+      "options": [
+        { "text": "专注高效", "emotion": "平静" },
+        { "text": "疲惫，注意力不集中", "emotion": "疲惫" },
+        { "text": "不安，周围太安静", "emotion": "不安" },
+        { "text": "压力，时间不够", "emotion": "压力" }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "当你错过一次复习机会时，你会？",
+      "options": [
+        { "text": "调整计划，继续", "emotion": "平静" },
+        { "text": "沮丧，后悔", "emotion": "沮丧" },
+        { "text": "焦虑，担心影响", "emotion": "焦虑" },
+        { "text": "无助，觉得完了", "emotion": "无助" }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "对自己的记忆力，你满意吗？",
+      "options": [
+        { "text": "满意", "emotion": "平静" },
+        { "text": "不满意，沮丧", "emotion": "沮丧" },
+        { "text": "焦虑，怕忘记", "emotion": "焦虑" },
+        { "text": "疲惫，记不住", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "当老师表扬你时，你会？",
+      "options": [
+        { "text": "开心，接受", "emotion": "平静" },
+        { "text": "紧张，不习惯", "emotion": "紧张" },
+        { "text": "不安，觉得是运气", "emotion": "不安" },
+        { "text": "沮丧，觉得不配", "emotion": "沮丧" }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "面对期末考试的压力，你会？",
+      "options": [
+        { "text": "制定计划应对", "emotion": "平静" },
+        { "text": "压力巨大", "emotion": "压力" },
+        { "text": "焦虑不安", "emotion": "焦虑" },
+        { "text": "无助，觉得无法准备", "emotion": "无助" }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "当你参加竞赛时，你的感觉是？",
+      "options": [
+        { "text": "兴奋，期待挑战", "emotion": "平静" },
+        { "text": "紧张，担心表现", "emotion": "紧张" },
+        { "text": "压力，怕失败", "emotion": "压力" },
+        { "text": "不安，觉得自己不够好", "emotion": "不安" }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "面对新的学习伙伴，你会？",
+      "options": [
+        { "text": "积极交流", "emotion": "平静" },
+        { "text": "紧张，不敢说话", "emotion": "紧张" },
+        { "text": "不安，担心被评价", "emotion": "不安" },
+        { "text": "疲惫，不想参与", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "当你忘记重要考试时，你会？",
+      "options": [
+        { "text": "沮丧，后悔", "emotion": "沮丧" },
+        { "text": "焦虑，担心后果", "emotion": "焦虑" },
+        { "text": "无助，不知怎么办", "emotion": "无助" },
+        { "text": "平静，接受并面对", "emotion": "平静" }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "对自己的专注力，你满意吗？",
+      "options": [
+        { "text": "满意", "emotion": "平静" },
+        { "text": "不满意，沮丧", "emotion": "沮丧" },
+        { "text": "疲惫，容易分心", "emotion": "疲惫" },
+        { "text": "不安，担心影响学习", "emotion": "不安" }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "当父母关心你的成绩时，你会？",
+      "options": [
+        { "text": "感激，分享情况", "emotion": "平静" },
+        { "text": "压力，怕让他们失望", "emotion": "压力" },
+        { "text": "紧张，怕被批评", "emotion": "紧张" },
+        { "text": "沮丧，觉得自己不够好", "emotion": "沮丧" }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "在自习室学习时，你的表现如何？",
+      "options": [
+        { "text": "专注高效", "emotion": "平静" },
+        { "text": "疲惫，注意力不集中", "emotion": "疲惫" },
+        { "text": "不安，周围太安静", "emotion": "不安" },
+        { "text": "压力，时间不够", "emotion": "压力" }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "当你看到自己的进步时，你会？",
+      "options": [
+        { "text": "开心，继续努力", "emotion": "平静" },
+        { "text": "沮丧，觉得还不够", "emotion": "沮丧" },
+        { "text": "不安，担心退步", "emotion": "不安" },
+        { "text": "疲惫，觉得进步太慢", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "面对选择专业或方向的压力，你会？",
+      "options": [
+        { "text": "理性分析，选择", "emotion": "平静" },
+        { "text": "焦虑，担心选错", "emotion": "焦虑" },
+        { "text": "无助，不知方向", "emotion": "无助" },
+        { "text": "压力，怕影响未来", "emotion": "压力" }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "当你熬夜学习后，第二天效率如何？",
+      "options": [
+        { "text": "正常，继续学习", "emotion": "平静" },
+        { "text": "疲惫，效率低下", "emotion": "疲惫" },
+        { "text": "沮丧，觉得浪费时间", "emotion": "沮丧" },
+        { "text": "焦虑，担心影响考试", "emotion": "焦虑" }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "对未来的就业前景，你怎么看？",
+      "options": [
+        { "text": "乐观，有信心", "emotion": "平静" },
+        { "text": "不安，担心竞争", "emotion": "不安" },
+        { "text": "无助，觉得机会渺茫", "emotion": "无助" },
+        { "text": "压力，怕找不到工作", "emotion": "压力" }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "当你收到奖学金时，你会？",
+      "options": [
+        { "text": "开心，觉得值得", "emotion": "平静" },
+        { "text": "紧张，不习惯", "emotion": "紧张" },
+        { "text": "不安，觉得是运气", "emotion": "不安" },
+        { "text": "沮丧，觉得不够努力", "emotion": "沮丧" }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "面对网络学习的挑战，你会？",
+      "options": [
+        { "text": "适应并调整", "emotion": "平静" },
+        { "text": "疲惫，注意力分散", "emotion": "疲惫" },
+        { "text": "不安，担心效果", "emotion": "不安" },
+        { "text": "无助，技术问题多", "emotion": "无助" }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "当你和同学讨论难题时，你会？",
+      "options": [
+        { "text": "积极参与", "emotion": "平静" },
+        { "text": "紧张，怕说错", "emotion": "紧张" },
+        { "text": "不安，担心被评价", "emotion": "不安" },
+        { "text": "疲惫，不想说话", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "对自己的时间管理，你满意吗？",
+      "options": [
+        { "text": "满意", "emotion": "平静" },
+        { "text": "不满意，沮丧", "emotion": "沮丧" },
+        { "text": "焦虑，时间不够", "emotion": "焦虑" },
+        { "text": "疲惫，计划总乱", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "当老师布置额外作业时，你会？",
+      "options": [
+        { "text": "接受并完成", "emotion": "平静" },
+        { "text": "压力，时间紧", "emotion": "压力" },
+        { "text": "沮丧，觉得太多", "emotion": "沮丧" },
+        { "text": "不安，担心完不成", "emotion": "不安" }
+      ]
+    },
+    {
+      "id": 66,
+      "text": "在假期学习时，你的感觉是？",
+      "options": [
+        { "text": "放松，有效率", "emotion": "平静" },
+        { "text": "疲惫，缺乏动力", "emotion": "疲惫" },
+        { "text": "不安，怕落下", "emotion": "不安" },
+        { "text": "压力，假期短", "emotion": "压力" }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "当你完成一项长期任务时，你会？",
+      "options": [
+        { "text": "满足，放松", "emotion": "平静" },
+        { "text": "疲惫，需要休息", "emotion": "疲惫" },
+        { "text": "不安，担心质量", "emotion": "不安" },
+        { "text": "沮丧，如果没做好", "emotion": "沮丧" }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "面对校园生活的变化，你会？",
+      "options": [
+        { "text": "适应并调整", "emotion": "平静" },
+        { "text": "不安，担心适应", "emotion": "不安" },
+        { "text": "压力，变化太多", "emotion": "压力" },
+        { "text": "无助，不知怎么办", "emotion": "无助" }
+      ]
+    },
+    {
+      "id": 69,
+      "text": "当你熬夜复习后，身体感觉如何？",
+      "options": [
+        { "text": "正常，继续", "emotion": "平静" },
+        { "text": "疲惫，头痛", "emotion": "疲惫" },
+        { "text": "焦虑，担心健康", "emotion": "焦虑" },
+        { "text": "沮丧，觉得不值得", "emotion": "沮丧" }
+      ]
+    },
+    {
+      "id": 70,
+      "text": "对未来的研究生深造，你怎么看？",
+      "options": [
+        { "text": "有计划地准备", "emotion": "平静" },
+        { "text": "压力，竞争激烈", "emotion": "压力" },
+        { "text": "不安，担心能力", "emotion": "不安" },
+        { "text": "无助，觉得遥远", "emotion": "无助" }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "当你参加校园活动时，你会？",
+      "options": [
+        { "text": "开心参与", "emotion": "平静" },
+        { "text": "紧张，不习惯", "emotion": "紧张" },
+        { "text": "不安，担心表现", "emotion": "不安" },
+        { "text": "疲惫，不想去", "emotion": "疲惫" }
+      ]
+    },
+    {
+      "id": 72,
+      "text": "面对新的学习科目，你会？",
+      "options": [
+        { "text": "积极学习", "emotion": "平静" },
+        { "text": "压力，觉得难", "emotion": "压力" },
+        { "text": "不安，担心跟不上", "emotion": "不安" },
+        { "text": "无助，不知从何开始", "emotion": "无助" }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "当你忘记重要截止日期时，你会？",
+      "options": [
+        { "text": "沮丧，后悔", "emotion": "沮丧" },
+        { "text": "焦虑，担心后果", "emotion": "焦虑" },
+        { "text": "无助，不知怎么办", "emotion": "无助" },
+        { "text": "平静，接受并补救", "emotion": "平静" }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "对自己的学习动力，你满意吗？",
+      "options": [
+        { "text": "满意", "emotion": "平静" },
+        { "text": "不满意，沮丧", "emotion": "沮丧" },
+        { "text": "疲惫，缺乏动力", "emotion": "疲惫" },
+        { "text": "不安，担心持续", "emotion": "不安" }
+      ]
+    },
+    {
+      "id": 75,
+      "text": "当朋友分享学习经验时，你会？",
+      "options": [
+        { "text": "学习借鉴", "emotion": "平静" },
+        { "text": "压力，比不上", "emotion": "压力" },
+        { "text": "沮丧，自卑", "emotion": "沮丧" },
+        { "text": "不安，担心差距", "emotion": "不安" }
+      ]
+    },
+    {
+      "id": 76,
+      "text": "在宿舍学习时，你的表现如何？",
+      "options": [
+        { "text": "专注高效", "emotion": "平静" },
+        { "text": "疲惫，容易分心", "emotion": "疲惫" },
+        { "text": "不安，环境吵", "emotion": "不安" },
+        { "text": "压力，时间不够", "emotion": "压力" }
+      ]
+    },
+    {
+      "id": 77,
+      "text": "当你看到自己的弱点时，你会？",
+      "options": [
+        { "text": "努力改进", "emotion": "平静" },
+        { "text": "沮丧，觉得自己差", "emotion": "沮丧" },
+        { "text": "焦虑，担心影响", "emotion": "焦虑" },
+        { "text": "无助，不知怎么改", "emotion": "无助" }
+      ]
+    },
+    {
+      "id": 78,
+      "text": "面对实习或工作的压力，你会？",
+      "options": [
+        { "text": "积极准备", "emotion": "平静" },
+        { "text": "压力，竞争大", "emotion": "压力" },
+        { "text": "不安，担心能力", "emotion": "不安" },
+        { "text": "无助，觉得难", "emotion": "无助" }
+      ]
+    },
+    {
+      "id": 79,
+      "text": "当你熬夜完成作业后，第二天如何？",
+      "options": [
+        { "text": "正常，继续", "emotion": "平静" },
+        { "text": "疲惫，效率低", "emotion": "疲惫" },
+        { "text": "沮丧，觉得不值", "emotion": "沮丧" },
+        { "text": "焦虑，担心健康", "emotion": "焦虑" }
+      ]
+    },
+    {
+      "id": 80,
+      "text": "对未来的创业前景，你怎么看？",
+      "options": [
+        { "text": "有兴趣探索", "emotion": "平静" },
+        { "text": "不安，担心风险", "emotion": "不安" },
+        { "text": "无助，觉得遥远", "emotion": "无助" },
+        { "text": "压力，竞争激烈", "emotion": "压力" }
+      ]
     }
   ],
   "emotionKeywords": {
