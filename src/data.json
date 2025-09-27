@@ -1312,19 +1312,19 @@
   },
   "animations": ["floating", "breathing", "pulse", "wave"],
   "music": {
-    "焦虑": ["Snowfall.flac", "理想主义.flac"],
+    "焦虑": ["Snowfall.mp3", "理想主义.mp3"],
     "压力": [
-      "De Duinen An Bloememdaal.flac",
-      "Sunlight Feels Like Forgiveness.flac"
+      "De Duinen An Bloememdaal.mp3",
+      "Sunlight Feels Like Forgiveness.mp3"
     ],
-    "低落": ["Stress Free.flac", "Reclamation.flac"],
+    "低落": ["Stress Free.mp3", "Reclamation.mp3"],
     "疲惫": ["Travel Begins.mp3"],
-    "不安": ["夜 萤火虫和你.flac"],
-    "紧张": ["Cessura.flac"],
-    "沮丧": ["最后一次放学.flac", "0323狂想曲.flac", "One Last Kiss.mp3"],
-    "无助": ["浮光.flac", "星河不及你.flac"],
-    "平静": ["Constant Moderato.flac"],
-    "绝望": ["First Light.flac"],
-    "空虚": ["Saudade.flac"]
+    "不安": ["夜 萤火虫和你.mp3"],
+    "紧张": ["Cessura.mp3"],
+    "沮丧": ["最后一次放学.mp3", "0323狂想曲.mp3", "One Last Kiss.mp3"],
+    "无助": ["浮光.mp3", "星河不及你.mp3"],
+    "平静": ["Constant Moderato.mp3"],
+    "绝望": ["First Light.mp3"],
+    "空虚": ["Saudade.mp3"]
   }
 }
