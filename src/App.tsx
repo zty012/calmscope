@@ -396,6 +396,32 @@ function App() {
                   </p>
                 </div>
 
+                {/*音乐，data.music[情绪类型][随机选一个]*/}
+                {data.music[primaryEmotion as keyof typeof data.music] && (
+                  <div className="bg-gray-800 rounded-lg p-6 text-center">
+                    <h3 className="text-xl font-semibold text-white mb-4">
+                      推荐音乐
+                    </h3>
+                    <audio
+                      controls
+                      className="w-full"
+                      src={
+                        "/music/" +
+                        data.music[primaryEmotion as keyof typeof data.music][
+                          Math.floor(
+                            Math.random() *
+                              data.music[
+                                primaryEmotion as keyof typeof data.music
+                              ].length,
+                          )
+                        ]
+                      }
+                    >
+                      Your browser does not support the audio element.
+                    </audio>
+                  </div>
+                )}
+
                 {/* 重新测试 */}
                 <div className="text-center">
                   <button
